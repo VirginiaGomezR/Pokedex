@@ -1,0 +1,2 @@
+.App{text-align:center}.App .list{display:grid;grid-template-columns:repeat(5,1fr)}.App .picture-style{width:50%}.App .power-style{background-color:grey;color:#fff;width:30%;border:1px solid #fff;border-radius:25px;margin:auto;font-weight:700;text-transform:capitalize;padding:2px}.App .power-style:hover{background-color:violet}.list-styles{list-style-type:none;border:1px solid #000;border-radius:25px;margin:5px;background-color:#ddecf1;padding:10px}.list-styles .title-pokemon{text-transform:capitalize}
+/*# sourceMappingURL=main.7e366724.chunk.css.map */
