@@ -10,13 +10,13 @@ class Pokemon extends React.Component {
           src={this.props.data.url}
           alt={this.props.data.name}
         />
-        <div>
-          {this.props.data.types.map((power, index) => (
-            <div className="power-style" key={index}>
+        <ul className="power-list-style">
+          {this.props.data.types.map((power, id) => (
+            <li className="power-style" key={id}>
               {power}
-            </div>
+            </li>
           ))}
-        </div>
+        </ul>
       </li>
     );
   }

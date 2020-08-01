@@ -9,6 +9,9 @@
   .picture-style {
     width: 50%;
   }
+.power-list-style{
+  list-style-type: none;
+  padding:0px;
 
   .power-style {
     background-color: grey;
@@ -25,6 +28,7 @@
       background-color: violet;
     }
   }
+}
 }
 
 .list-styles {
